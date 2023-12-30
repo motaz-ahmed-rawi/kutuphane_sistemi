@@ -3,7 +3,7 @@ require_once('db_connection.php');
 
 require_once('check_login.php');
 
-require_once('check_admin.php');
+
 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
